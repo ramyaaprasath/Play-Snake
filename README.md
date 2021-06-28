@@ -40,7 +40,7 @@ Q  | Quit
 R  | Restart
 
 ## In action
-![start](https://user-images.githubusercontent.com/75536064/123614681-2bc8ce00-d822-11eb-86c6-30c533fd6229.png)
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/75536064/123614681-2bc8ce00-d822-11eb-86c6-30c533fd6229.png">
 ![pause](https://user-images.githubusercontent.com/75536064/123614568-1784d100-d822-11eb-9af8-87ae7f2c7b8d.png)
 ![score](https://user-images.githubusercontent.com/75536064/123614605-1fdd0c00-d822-11eb-98b8-7e1428756352.png)
 ![self destruction](https://user-images.githubusercontent.com/75536064/123614483-ffad4d00-d821-11eb-9a23-7617cd67f25b.png)
