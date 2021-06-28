@@ -22,10 +22,11 @@ Each item eaten makes the snake longer, so avoiding collision with the snake bec
 My game follows the second concept
 
 ## How to Play 🤔
+Download the code first at a preferred file location.
 Open Command Prompt at the file location and run
 `ruby2d console snake.rb`
 
-### Game Controls 🎮
+## Game Controls 🎮
  Use arrow keys to control the snake.
  
  Key | Movement
