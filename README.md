@@ -34,5 +34,8 @@ Open Command Prompt at the file location and run
 🡢 | Right
 🡡 | Up
 🡣 | Down
+P  | Pause
+Q  | Quit
+R  | Restart
 
 
