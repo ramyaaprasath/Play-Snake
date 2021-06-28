@@ -38,8 +38,8 @@ Open Command Prompt at the file location and run
 P  | Pause
 Q  | Quit
 R  | Restart
-td {background-color: white;}
-## In action
+
+## In action 🔥
 Snake             |  Game
 :-------------------------:|:-------------------------:
 ![start](https://user-images.githubusercontent.com/75536064/123615566-0daf9d80-d823-11eb-850d-83e1d89b5211.png) |  ![play](https://user-images.githubusercontent.com/75536064/123614568-1784d100-d822-11eb-9af8-87ae7f2c7b8d.png)
