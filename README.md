@@ -38,7 +38,7 @@ Open Command Prompt at the file location and run
 P  | Pause
 Q  | Quit
 R  | Restart
-
+td {background-color: white;}
 ## In action
 Snake             |  Game
 :-------------------------:|:-------------------------:
