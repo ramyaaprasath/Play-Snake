@@ -1,11 +1,11 @@
 # Play-Snake 🐍
 Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle.
-## Prerequisite Gems
+## Prerequisite Gems <a href="https://www.ruby-lang.org" emoji-code="Ruby"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" /></a>
  Ruby 2D - Create 2D applications, games, and visualizations with ease. 
  To install Ruby 2D, run
  `gem install ruby2d`
  
- ## Game Play
+ ## Game Play 🕹
  1. The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind, resembling a moving snake.
  In some games, the end of the trail is in a fixed position, so the snake continually gets longer as it moves.
  In another common scheme, the snake has a specific length, so there is a moving tail a fixed number of units away from the head.
@@ -21,11 +21,11 @@ Each item eaten makes the snake longer, so avoiding collision with the snake bec
 
 My game follows the second concept
 
-## How to Play
+## How to Play 🤔
 Open Command Prompt at the file location and run
 `ruby2d console snake.rb`
 
-### Game Controls
+### Game Controls 🎮
  Use arrow keys to control the snake.
  
  Key | Movement
