@@ -39,4 +39,8 @@ P  | Pause
 Q  | Quit
 R  | Restart
 
+## In action
+![self destruction](https://user-images.githubusercontent.com/75536064/123614483-ffad4d00-d821-11eb-9a23-7617cd67f25b.png)
+
+
 
