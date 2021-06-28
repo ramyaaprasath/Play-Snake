@@ -40,11 +40,11 @@ Q  | Quit
 R  | Restart
 
 ## In action
-<img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/75536064/123614681-2bc8ce00-d822-11eb-86c6-30c533fd6229.png">
-At the start of the game, food appears at random coordinates
-<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/75536064/123614568-1784d100-d822-11eb-9af8-87ae7f2c7b8d.png">
-<img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/75536064/123614605-1fdd0c00-d822-11eb-98b8-7e1428756352.png">
-<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/75536064/123614483-ffad4d00-d821-11eb-9a23-7617cd67f25b.png">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![start](https://user-images.githubusercontent.com/75536064/123615566-0daf9d80-d823-11eb-850d-83e1d89b5211.png) |  ![play](https://user-images.githubusercontent.com/75536064/123614568-1784d100-d822-11eb-9af8-87ae7f2c7b8d.png)
+![eat](https://user-images.githubusercontent.com/75536064/123614605-1fdd0c00-d822-11eb-98b8-7e1428756352.png)  |  ![pause](https://user-images.githubusercontent.com/75536064/123614483-ffad4d00-d821-11eb-9a23-7617cd67f25b.png)
+
 
 
 
